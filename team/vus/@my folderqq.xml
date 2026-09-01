@@ -1,6 +1,6 @@
 <virtual-user errorPolicy="DO_NOTHING"
     failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
-    type="LEGACY" uid="My folder">
+    type="LEGACY" uid="My folderqq">
     <init-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
@@ -11,7 +11,7 @@
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Eléments répétés jusqu'à que l'Utilisateur Virtuel s'arrête.</description>
-        <weighted-embedded-action uid="21684ccc-d41b-4c71-bd48-c56809ccea04"/>
+        <weighted-embedded-action uid="b484b27b-1cb9-488d-830e-2b532727129b"/>
     </actions-container>
     <end-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
