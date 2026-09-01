@@ -1,6 +1,0 @@
-<while-action name="Tant que" uid="1fb5f0bc-9eea-4262-8322-284f2dab80f6">
-    <embedded-action>0dc3ac95-4522-4aa9-95a5-f8270713db88</embedded-action>
-    <conditions match-type="1">
-        <condition operand1="" operand2="" operator="EQUALS"/>
-    </conditions>
-</while-action>

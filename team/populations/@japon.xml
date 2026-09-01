@@ -1,5 +1,5 @@
 <population uid="Japon">
-    <split cache="1" factor="100.0" virtualUserUid="My folder1a">
+    <split cache="1" factor="100.0" virtualUserUid="My folder1aa">
         <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
             connections="6" cookies="true" http2="true" name="browser.recorded"/>
         <wan-emulation-profile
