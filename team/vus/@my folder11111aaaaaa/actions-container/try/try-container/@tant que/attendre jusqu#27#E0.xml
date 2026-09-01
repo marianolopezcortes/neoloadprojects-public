@@ -1,5 +1,5 @@
 <wait-until-action name="attendre jusqu'à"
-    uid="dc82377a-cf15-4f9a-a9e9-e760bcebda55" wait-timeout="60000">
+    uid="f6aecedf-09e2-451d-bd62-9c255efd6341" wait-timeout="60000">
     <conditions match-type="1">
         <condition operand1="" operand2="" operator="EQUALS"/>
     </conditions>
