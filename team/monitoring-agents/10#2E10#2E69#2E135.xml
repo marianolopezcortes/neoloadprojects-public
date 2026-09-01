@@ -1,0 +1,5 @@
+<me-host browserBasedSupport="false" citrixSupport="false"
+    loadWeight="1" sapSupport="false" standalone="false"
+    supportWANEmulation="false" uid="10.10.69.135" version="2026.2.0;build=20260618-14">
+    <!--****** LG NETWORK INTERFACES ******-->
+</me-host>
