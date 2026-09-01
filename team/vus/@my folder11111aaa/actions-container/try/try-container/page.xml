@@ -1,11 +1,11 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false" name="page"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@my folder11111/%resources%/recorded-artifacts/a9944ff8-01e3-4b00-90a5-2a4d625e4636.zip"
+    recordedArtifactZipFileName="team/vus/@my folder11111aaa/%resources%/recorded-artifacts/dc9d10cf-4e12-4b04-afcb-799d6ecb5cca.zip"
     slaProfileEnabled="false" thinkTime="0"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="a9944ff8-01e3-4b00-90a5-2a4d625e4636">
-    <embedded-action>ad253e41-c5a2-4836-89ea-1a063364b9d0</embedded-action>
+    thinkTimeRangeStart="" uid="dc9d10cf-4e12-4b04-afcb-799d6ecb5cca">
+    <embedded-action>12bafaed-c5dd-43e2-906e-7bfeca516a3a</embedded-action>
 </http-page>
 <http-action actionType="1" extractorInjectPathPolicy="2"
     extractorPathPolicy="1" followRedirects="false"
@@ -13,7 +13,7 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="http_request_" path="/" postType="1"
     serverUid="host" slaProfileEnabled="false"
-    uid="ad253e41-c5a2-4836-89ea-1a063364b9d0" useKeepAlive="false">
+    uid="12bafaed-c5dd-43e2-906e-7bfeca516a3a" useKeepAlive="false">
     <responseHeaders/>
     <record-html-infos extractorRegExp="false" htmlType="0"/>
 </http-action>
