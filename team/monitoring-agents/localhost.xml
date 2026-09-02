@@ -70,8 +70,8 @@
         <lg-address enabled="false" hostname="2001:861:30d0:d0c0:5f1:25da:67f5:118">
             <ip value="2001:861:30d0:d0c0:5f1:25da:67f5:118"/>
         </lg-address>
-        <lg-address enabled="false" hostname="2001:861:30d0:d0c0:b46b:2396:b806:db98">
-            <ip value="2001:861:30d0:d0c0:b46b:2396:b806:db98"/>
+        <lg-address enabled="false" hostname="2001:861:30d0:d0c0:847b:7432:3aee:bf12">
+            <ip value="2001:861:30d0:d0c0:847b:7432:3aee:bf12"/>
         </lg-address>
         <lg-address enabled="false" hostname="fe80:0:0:0:ec73:51ee:2919:716b%ethernet_32776">
             <ip value="fe80:0:0:0:ec73:51ee:2919:716b%ethernet_32776"/>
@@ -103,15 +103,6 @@
     <lg-networkiface description="Intel(R) Wi-Fi 7 BE201 320MHz"
         enabled="false" isLoopBack="false" name="wireless_32768">
         <!--****** LG ADDRESSES ******-->
-        <lg-address enabled="false" hostname="192.168.1.46">
-            <ip value="192.168.1.46"/>
-        </lg-address>
-        <lg-address enabled="false" hostname="2001:861:30d0:d0c0:517f:297f:c706:fc4d">
-            <ip value="2001:861:30d0:d0c0:517f:297f:c706:fc4d"/>
-        </lg-address>
-        <lg-address enabled="false" hostname="2001:861:30d0:d0c0:840e:744e:83c9:8749">
-            <ip value="2001:861:30d0:d0c0:840e:744e:83c9:8749"/>
-        </lg-address>
         <lg-address enabled="false" hostname="fe80:0:0:0:2972:32ee:98e6:e127%wireless_32768">
             <ip value="fe80:0:0:0:2972:32ee:98e6:e127%wireless_32768"/>
         </lg-address>
@@ -194,8 +185,8 @@
         <lg-address enabled="false" hostname="tri-bft50m4.mshome.net">
             <ip value="172.28.128.1"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:36ce:e3e3:e458:5916%ethernet_32778">
-            <ip value="fe80:0:0:0:36ce:e3e3:e458:5916%ethernet_32778"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:8908:639:fc21:7111%ethernet_32778">
+            <ip value="fe80:0:0:0:8908:639:fc21:7111%ethernet_32778"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
