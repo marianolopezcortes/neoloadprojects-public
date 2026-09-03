@@ -1,7 +1,7 @@
 <lg-host browserBasedSupport="true" citrixSupport="false"
     hostname="localhost:7100" loadWeight="1" sapSupport="false"
     standalone="false" supportWANEmulation="false"
-    uid="aae29d56-8a85-44c0-8747-a5b170bb87a3" version="2026.3.0 dev;build=branchHead-DEV">
+    uid="aae29d56-8a85-44c0-8747-a5b170bb87a3" version="2026.3.0;build=20260902-1179">
     <!--****** LG NETWORK INTERFACES ******-->
     <lg-networkiface
         description="Realtek USB GbE Family Controller #2-WFP 802.3 MAC Layer LightWeight Filter-0000"
