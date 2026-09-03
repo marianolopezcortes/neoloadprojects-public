@@ -101,6 +101,9 @@
     <lg-networkiface description="Intel(R) Wi-Fi 7 BE201 320MHz"
         enabled="false" isLoopBack="false" name="wireless_32768">
         <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="10.10.66.127">
+            <ip value="10.10.66.127"/>
+        </lg-address>
         <lg-address enabled="false" hostname="fe80:0:0:0:2972:32ee:98e6:e127%wireless_32768">
             <ip value="fe80:0:0:0:2972:32ee:98e6:e127%wireless_32768"/>
         </lg-address>
