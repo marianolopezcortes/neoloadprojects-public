@@ -14,5 +14,5 @@ team.server.enabled=true
 ssh.trustUnknownHosts.MONITORS=false
 monitor.tls.insecure=false
 team.server.project=marianolopezcortes/neoloadprojects.git
-project.test-settings=ee655643-8e95-44e7-be3c-7234626055fc
+project.test-settings=796273e4-e271-448f-b5be-08e6f5891a96
 project.description=
