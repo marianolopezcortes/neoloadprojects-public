@@ -1,6 +1,6 @@
 <me-host browserBasedSupport="false" citrixSupport="false"
     loadWeight="1" sapSupport="false" standalone="false"
-    supportWANEmulation="false" uid="localhost" version="2026.3.0 dev;build=branchHead-DEV">
+    supportWANEmulation="false" uid="localhost" version="2026.3.0;build=20260903-1284">
     <!--****** LG NETWORK INTERFACES ******-->
     <lg-networkiface
         description="Realtek USB GbE Family Controller #2-QoS Packet Scheduler-0000"
