@@ -4,7 +4,7 @@
     <population-policy name="Coree">
         <duration-policy-entry iterations="1" time="120" timeUnit="0" type="2"/>
         <volume-policy-entry>
-            <constant-volume-policy iterationNumber="1" userNumber="10"/>
+            <custom-volume-policy iteration="10" maxUsers="1" totalLength="120"/>
         </volume-policy-entry>
         <start-stop-policy-entry start-delay="0" start-type="0"
             stop-delay="60000" stop-type="0"/>
