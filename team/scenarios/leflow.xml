@@ -1,8 +1,8 @@
 <scenario postMonitoringTime="-1" preMonitoringTime="-1"
     slaProfileEnabled="false" traceVariables="true" uid="leflow" virtualUsersStates="true">
     <!--****** POPULATION POLICY ******-->
-    <population-policy name="Coree">
-        <duration-policy-entry iterations="1" time="120" timeUnit="0" type="2"/>
+    <population-policy name="Pop">
+        <duration-policy-entry iterations="1" time="1200" timeUnit="0" type="1"/>
         <volume-policy-entry>
             <custom-volume-policy iteration="10" maxUsers="1" totalLength="120"/>
         </volume-policy-entry>
